@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Data Analyst & Data Scientist from India</h3>
+<h3 align="center">A passionate Data Analyst & aspiring data scientist from India</h3>
 <img src="https://dribbble.com/shots/15215756-Coding-Animation-Concept" width="400" align="right">
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sarika919&label=Profile%20views&color=0e75b6&style=flat" alt="sarika919" />
